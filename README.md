@@ -1,29 +1,29 @@
 # Backend
-# Getting Started with Create React App
+## Getting Started with Create React App
 
 This project was bootstrapped with [MERN STACK](https://https://platzi.com/blog/que-es-mern-stack-javascript/).
 
-# Clean Architecture
+## Clean Architecture
 ## | Mongo | Express | React | Node |
-# `Folders`
+### `Folders`
 
-server
-    | controllers --> requests
-    | middlewares --> validations
-    | models      --> entitys
-    | routes      --> requires API
-----^
+server  
+    | controllers --> requests  
+    | middlewares --> validations  
+    | models      --> entitys  
+    | routes      --> requires API  
+----^  
 
-# `Files with Express`
+### `Files with Express`
 
-server
-    | index
-    | database
-    | config
-    | app
-.gitignore --> Git repository configuration
-.env       --> Environment Variables
-Readme     --> Initial project documentation
+server  
+    | index  
+    | database  
+    | config  
+    | app  
+.gitignore --> Git repository configuration  
+.env       --> Environment Variables  
+Readme     --> Initial project documentation  
 
 ## Available Scripts
 
