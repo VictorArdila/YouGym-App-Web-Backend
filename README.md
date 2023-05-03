@@ -1,5 +1,5 @@
 # Backend
-## Getting Started with Create React App
+## Documentation
 
 This project was bootstrapped with [MERN STACK](https://https://platzi.com/blog/que-es-mern-stack-javascript/).
 
