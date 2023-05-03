@@ -1,9 +1,10 @@
+# Backend
 # Getting Started with Create React App
 
 This project was bootstrapped with [MERN STACK](https://https://platzi.com/blog/que-es-mern-stack-javascript/).
 
-## Clean Architecture
-# | Mongo | Express | React | Node |
+# Clean Architecture
+## | Mongo | Express | React | Node |
 # `Folders`
 
 server
