@@ -7,23 +7,23 @@ This project was bootstrapped with [MERN STACK](https://https://platzi.com/blog/
 ## | Mongo | Express | React | Node |
 ### `Folders`
 
-server  
-    | controllers --> requests  
-    | middlewares --> validations  
-    | models      --> entitys  
-    | routes      --> requires API  
+**server**  
+    | **controllers** --> requests  
+    | **middlewares** --> validations  
+    | **models**      --> entitys  
+    | **routes**      --> requires API  
 ----^  
 
 ### `Files with Express`
 
-server  
-    | index  
-    | database  
-    | config  
-    | app  
-.gitignore --> Git repository configuration  
-.env       --> Environment Variables  
-Readme     --> Initial project documentation  
+**server**  
+    | **index**  
+    | **database**  
+    | **config**  
+    | **app**  
+**.gitignore** --> Git repository configuration  
+**.env**       --> Environment Variables  
+**Readme**     --> Initial project documentation  
 
 ## Available Scripts
 
